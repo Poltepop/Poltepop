@@ -7,7 +7,7 @@
 </div>
 
 ## 🌟 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap)](#)
 
 ## 🤔  Super Star Jumbo
 <!-- <p align="center">

@@ -10,11 +10,13 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap)](#)
 
 ## 🤔  Super Star Jumbo
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siegrin&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siegrin&layout=compact&theme=radical" alt="Top Languages" />
-</p> -->
 
+<p align="center">
+    Hi, I’m Poltepop, a passionate web developer with a strong background in crafting user-centric websites and applications. With a blend of creativity and technical expertise, I specialize in building intuitive, responsive, and visually appealing web experiences.
+</p>
+
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=siegrin&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siegrin&layout=compact&theme=radical" alt="Top Languages" /> -->
 
 <!-- 
 **Poltepop/Poltepop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +30,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... --> -->
+- ⚡ Fun fact: ... --> 
 

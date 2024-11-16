@@ -18,7 +18,7 @@
 
 
 
-<div align="center">
+<div align="center"  style="margin: 40px;" >
 
 ## 🤔  Super Star Jumbo?
 

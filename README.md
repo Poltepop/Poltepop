@@ -17,9 +17,10 @@
 </div>
 
 
-## 🤔  Super Star Jumbo?
 
 <div align="center">
+
+## 🤔  Super Star Jumbo?
 
 ### ***Hi, I’m Poltepop!***  
 A passionate web developer with a strong background in crafting user-centric websites and applications.  

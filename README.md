@@ -8,7 +8,7 @@
 
 
 
-<div align="center">
+<div align="center" style="margin: 40px;">
 
 ## 🌟 My Skills
 

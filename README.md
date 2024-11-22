@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Poltepop!;Welcome+to+my+GitHub!;Let's+create+something+awesome!)](https://git.io/typing-svg)
 
 <div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
-  <img src="https://i.pinimg.com/originals/48/32/b2/4832b2b3cae27855861355d14c33e880.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
+  <img src="https://i.pinimg.com/originals/d1/a2/57/d1a257b6143ae6f2c035633c9819ff2d.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
 </div>
 
 

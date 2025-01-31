@@ -12,7 +12,7 @@
 
 ## My Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,laravel)](#)
 
 </div>
 

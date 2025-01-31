@@ -10,7 +10,7 @@
 
 <div align="center" style="margin: 80px;">
 
-## My Skills  
+## My Skills Favorite Gw
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,php,mysql,laravel)](#)
 
@@ -23,8 +23,7 @@
 ## 🤔  Super Star Jumbo?
 
 ### ***Hi, I’m Poltepop!***  
-A passionate web developer with a strong background in crafting user-centric websites and applications.  
-With a blend of creativity and technical expertise, I specialize in building intuitive, responsive, and visually appealing web experiences.
+Saya Adalah Programmer handal[boong] Yang ingin Mendapat Kan Gaji 2 digit Di Umur 18 Tahun, Dan Saya Bercita2 Untuk Menjadi Guru Stm Yang kelak Membawa Keberhasilan Indonesia Emas 2045 
 
 </div>
 
